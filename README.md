@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there , I'm Nicola Corea 🤓
+
+I'm a student in Robotics & Automation Engineering with a strong passion for Mathematics.
+
+My topics of interest are:
+- 📚 Robotics
+- 📚 Control Theory
+- 📚 Dynamics Systems Theory
+- 📚 Robust Control Theory
+- 📚 Vehicle Dynamics & Control
+
+But , my greatest love is Mathematics. Actually , i'm focused on:
+- 📚 Constrained Optimization
+- 📚 Convex Optimization
+- 📚 Gradient Like Methods
 
 <!--
 **Tesla97/Tesla97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
