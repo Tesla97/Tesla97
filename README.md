@@ -8,6 +8,7 @@ My topics of interest are:
 - 📚 Dynamics Systems Theory
 - 📚 Robust Control Theory
 - 📚 Vehicle Dynamics & Control
+- 📚 Machine Learning Algorithms
 
 But , my greatest love is Mathematics. Actually , i'm focused on:
 - 📚 Constrained Optimization
