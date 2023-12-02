@@ -1,6 +1,11 @@
 ### Hi there , I'm Nicola Corea 🤓
 
-I'm a student in Robotics & Automation Engineering with a strong passion for Mathematics.
+I'm a  Robotics & Automation Engineer with a strong passion for Mathematics.
+
+I have the following Academic Qualifications:
+1) Bachelor Degree in Computer Engineering (with honors)
+2) Master Degree in Automation Engineering (with honors)
+
 
 My topics of interest are:
 - 📚 Robotics
